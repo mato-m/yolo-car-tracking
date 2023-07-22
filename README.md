@@ -1,4 +1,4 @@
-# Vehicle counting with YOLO and ByteTracker
+# YOLO & ByteTracker - Vehicle counting
 #### Video
 The [video](https://www.youtube.com/watch?v=MNn9qKG2UFI) was downloaded from Youtube. It is 5:06 minutes long
 
