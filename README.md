@@ -1,10 +1,10 @@
 # YOLO & ByteTracker - Vehicle counting
-#### Video
+## Video
 The [video](https://www.youtube.com/watch?v=MNn9qKG2UFI) was downloaded from Youtube. It is 5:06 minutes long
 
 and it shows vehicle passing on a traffic. The video was downloaded in 720p resoultion.
 
-#### Model
+## Model
 
 The code for model creation was heavily inspired by the [code](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-track-and-count-vehicles-with-yolov8.ipynb) created by Roboflow. It utilizes YOLOv8 model, which is used for object detection on images.
 
